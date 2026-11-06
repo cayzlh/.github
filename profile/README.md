@@ -14,5 +14,5 @@
 ---
 
 <p align="center">
-  <sub>Copyright © 2021-2026 Ant丶 · <a href="LICENSE">MIT License</a></sub>
+  <sub>Copyright © 2021-2026 Ant丶 · <a href="https://github.com/cayzlh/.github/blob/main/LICENSE">MIT License</a></sub>
 </p>
